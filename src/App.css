@@ -1,0 +1,22 @@
+/* Parametrizações Globais do Site */
+/* Header ( cabeçalhos )
+Background Priário:
+Background Secundário: 
+Titulos: 
+Subtitulos:
+Links:
+Hovers:
+Footer: 
+*/
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  height: 100%;
+  background-color: #FFF9F5;
+}
+

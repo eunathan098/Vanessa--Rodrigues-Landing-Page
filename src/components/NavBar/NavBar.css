@@ -1,0 +1,39 @@
+.header-navbar{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.container-nav-logo{
+    display: flex;
+}
+
+.logo-header{
+    height: 60px;
+    border-radius: 100%;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+.links-navigation{
+    display: flex;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 15px;
+    color: #4A2C2A;
+    font-family: "Montserrat", sans-serif;
+}
+
+#IconMenuMobile{
+    display: none;
+}
+
+.container-navigation{
+    display: flex;
+    gap: 20px;
+}
